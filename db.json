@@ -1,8 +1,11 @@
 {
-  "id": "1",
-  "firstName": "John",
-  "lastName": "Doe",
-  "email": "john@gmail.com",
-  
-  "companyId": "1"
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
