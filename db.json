@@ -3,6 +3,6 @@
   "firstName": "John",
   "lastName": "Doe",
   "email": "john@gmail.com",
-  "age": 34,
+  
   "companyId": "1"
 }
